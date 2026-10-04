@@ -1,0 +1,24 @@
+# Auditools
+
+> Auditools is a free suite of AI-powered readiness audits: Etsy listings, KDP books, product mockups, newsletters, course pages, freelancer profiles, and Airbnb listings.
+
+Canonical host: https://auditools.aiyes.space
+
+## Core pages
+
+- [Home](https://auditools.aiyes.space/)
+
+## Audit suite
+
+- [Listora](https://listora.aiyes.space/) — Etsy listing SEO audit and tag optimization.
+- [BookListing AI](https://booklisting.aiyes.space/) — KDP book listing SEO audit.
+- [Mockly](https://mockly.aiyes.space/) — e-commerce / POD product mockup and listing-image audit.
+- [Newsletterly](https://newsletterly.aiyes.space/) — newsletter growth-readiness audit.
+- [Launchly](https://launchly.aiyes.space/) — course / digital-product sales-page conversion audit.
+- [Profilo](https://profilo.aiyes.space/) — freelancer profile-readiness audit.
+- [Stayly](https://stayly.aiyes.space/) — Airbnb listing audit for hosts.
+
+## Canonical discovery
+
+- [Sitemap](https://auditools.aiyes.space/sitemap.xml)
+- [Robots](https://auditools.aiyes.space/robots.txt)
